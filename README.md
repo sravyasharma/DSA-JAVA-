@@ -22,11 +22,13 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0012-integer-to-roman) |
 ## Sorting
 |  |
 | ------- |
@@ -34,5 +36,6 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0012-integer-to-roman) |
 | [0367-valid-perfect-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
