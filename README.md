@@ -86,4 +86,20 @@
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1127-last-stone-weight](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1127-last-stone-weight) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
