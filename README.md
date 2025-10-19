@@ -8,6 +8,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0162-find-peak-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -29,6 +31,7 @@
 | [0283-move-zeroes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
 ## String
@@ -43,9 +46,11 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0012-integer-to-roman) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
