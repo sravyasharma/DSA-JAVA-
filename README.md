@@ -112,6 +112,7 @@
 | [0226-invert-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -124,6 +125,7 @@
 | [0226-invert-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -138,6 +140,7 @@
 | [0226-invert-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -152,5 +155,10 @@
 | [0226-invert-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0637-average-of-levels-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
