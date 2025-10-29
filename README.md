@@ -119,6 +119,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -168,6 +171,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1005-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
