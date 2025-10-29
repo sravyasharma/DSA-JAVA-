@@ -122,6 +122,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -139,6 +140,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -157,6 +159,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -177,6 +180,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1005-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -184,6 +188,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Stack
 |  |
 | ------- |
