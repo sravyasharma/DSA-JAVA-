@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0074-search-a-2d-matrix) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -113,6 +114,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0199-binary-tree-right-side-view) |
@@ -171,6 +173,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0199-binary-tree-right-side-view) |
@@ -186,6 +189,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -193,4 +197,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
