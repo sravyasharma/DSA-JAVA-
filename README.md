@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0137-single-number-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -201,4 +202,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
