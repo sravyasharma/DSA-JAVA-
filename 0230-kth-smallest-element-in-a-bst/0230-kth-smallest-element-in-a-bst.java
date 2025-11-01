@@ -17,7 +17,6 @@ class Solution {
     int kele=0;
     int i=0;
     public int kthSmallest(TreeNode root, int k) {
-        if(root==null) return 0;
         inorder(root,k);
         return kele;
     }
