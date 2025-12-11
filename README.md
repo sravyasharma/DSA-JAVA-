@@ -73,6 +73,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0012-integer-to-roman) |
 | [0096-unique-binary-search-trees](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
+| [0365-water-and-jug-problem](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0367-valid-perfect-square) |
 | [1236-n-th-tribonacci-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1236-n-th-tribonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -159,6 +160,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0365-water-and-jug-problem](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0365-water-and-jug-problem) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -179,6 +181,7 @@
 | [0112-path-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0226-invert-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0365-water-and-jug-problem) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
