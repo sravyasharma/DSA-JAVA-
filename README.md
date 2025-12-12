@@ -49,6 +49,7 @@
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0179-largest-number) |
+| [0290-word-pattern](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0541-reverse-string-ii) |
@@ -59,6 +60,7 @@
 | [0001-two-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0012-integer-to-roman) |
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
+| [0290-word-pattern](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
