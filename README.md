@@ -54,6 +54,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Hash Table
@@ -66,6 +67,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0389-find-the-difference) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
 |  |
@@ -73,6 +75,7 @@
 | [0179-largest-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -259,6 +262,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0137-single-number-ii) |
+| [0389-find-the-difference](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
