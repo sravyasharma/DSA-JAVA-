@@ -53,6 +53,7 @@
 | [0344-reverse-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Hash Table
@@ -64,6 +65,7 @@
 | [0290-word-pattern](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
 |  |
@@ -110,6 +112,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
@@ -273,4 +276,5 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
