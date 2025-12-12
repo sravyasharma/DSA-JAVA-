@@ -6,7 +6,7 @@ class Solution {
             charac[c-'a']++;
         }
         for(char c:ransomNote.toCharArray()){
-            if(charac[c-'a']==0) return false;
+            if(charac[c-'a']<=0) return false;
             charac[c-'a']--;
         }
         return true;
