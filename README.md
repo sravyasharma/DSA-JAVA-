@@ -62,6 +62,7 @@
 | [0551-student-attendance-record-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1154-day-of-the-year](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1154-day-of-the-year) |
+| [1446-consecutive-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1446-consecutive-characters) |
 ## Hash Table
 |  |
 | ------- |
