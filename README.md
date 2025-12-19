@@ -63,6 +63,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1154-day-of-the-year](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1154-day-of-the-year) |
 | [1446-consecutive-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1446-consecutive-characters) |
+| [1668-maximum-repeating-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1668-maximum-repeating-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
 | [1236-n-th-tribonacci-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1236-n-th-tribonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1668-maximum-repeating-substring) |
 ## Enumeration
 |  |
 | ------- |
@@ -290,4 +292,8 @@
 | ------- |
 | [0383-ransom-note](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
