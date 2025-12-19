@@ -61,6 +61,7 @@
 | [0541-reverse-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1154-day-of-the-year](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1154-day-of-the-year) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
 | [0365-water-and-jug-problem](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0367-valid-perfect-square) |
+| [1154-day-of-the-year](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1154-day-of-the-year) |
 | [1236-n-th-tribonacci-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1236-n-th-tribonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
