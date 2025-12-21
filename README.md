@@ -74,6 +74,7 @@
 | [1668-maximum-repeating-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1668-maximum-repeating-substring) |
 | [1903-largest-odd-number-in-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 ## Hash Table
 |  |
 | ------- |
