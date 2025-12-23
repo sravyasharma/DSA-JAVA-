@@ -79,6 +79,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2299-strong-password-checker-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2299-strong-password-checker-ii) |
+| [2325-decode-the-message](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2325-decode-the-message) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1189-maximum-number-of-balloons) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2325-decode-the-message](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2325-decode-the-message) |
 ## Sorting
 |  |
 | ------- |
