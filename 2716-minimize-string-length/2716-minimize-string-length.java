@@ -1,10 +1,9 @@
 class Solution {
     public int minimizedStringLength(String s) {
-        /*Map<Character,Integer> map=new HashMap<>();
+        Set<Character> set=new HashSet<>();
         for(char c:s.toCharArray()){
-            map.put(c,map.getOrDefault(c,0)+1);
+            set.add(c);
         }
-        return map.size();*/
-        return (int) s.chars().distinct().count();
+        return set.size();
     }
 }
