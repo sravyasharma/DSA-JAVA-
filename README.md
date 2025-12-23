@@ -82,6 +82,7 @@
 | [2299-strong-password-checker-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2299-strong-password-checker-ii) |
 | [2325-decode-the-message](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
+| [2716-minimize-string-length](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2716-minimize-string-length) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2325-decode-the-message](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
+| [2716-minimize-string-length](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2716-minimize-string-length) |
 ## Sorting
 |  |
 | ------- |
