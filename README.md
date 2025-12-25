@@ -78,6 +78,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -101,6 +102,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1189-maximum-number-of-balloons](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1189-maximum-number-of-balloons) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2325-decode-the-message](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
@@ -328,6 +330,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1189-maximum-number-of-balloons) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2085-count-common-words-with-one-occurrence) |
 ## String Matching
 |  |
