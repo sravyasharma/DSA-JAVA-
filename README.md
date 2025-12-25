@@ -90,6 +90,7 @@
 | [2716-minimize-string-length](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2716-minimize-string-length) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3340-check-balanced-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3340-check-balanced-string) |
 ## Hash Table
 |  |
 | ------- |
