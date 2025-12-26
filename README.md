@@ -23,6 +23,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2399-check-distances-between-same-letters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Binary Search
@@ -86,6 +87,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2299-strong-password-checker-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2299-strong-password-checker-ii) |
 | [2325-decode-the-message](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2325-decode-the-message) |
+| [2399-check-distances-between-same-letters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2716-minimize-string-length) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -109,6 +111,7 @@
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2325-decode-the-message](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2325-decode-the-message) |
+| [2399-check-distances-between-same-letters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2716-minimize-string-length) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3120-count-the-number-of-special-characters-i) |
