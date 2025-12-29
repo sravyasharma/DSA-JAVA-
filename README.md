@@ -16,6 +16,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1127-last-stone-weight) |
@@ -130,6 +131,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0389-find-the-difference) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
 ## Math
