@@ -11,6 +11,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0217-contains-duplicate) |
@@ -190,6 +191,7 @@
 | [0055-jump-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0435-non-overlapping-intervals) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
