@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0179-largest-number) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0290-word-pattern) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0013-roman-to-integer) |
 | [0096-unique-binary-search-trees](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
 | [0365-water-and-jug-problem](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0367-valid-perfect-square) |
