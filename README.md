@@ -27,6 +27,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0860-lemonade-change) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
+| [0905-sort-array-by-parity](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0946-validate-stack-sequences) |
 | [1002-find-common-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1002-find-common-characters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
@@ -67,6 +68,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
+| [0905-sort-array-by-parity](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0905-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1768-merge-strings-alternately) |
@@ -167,6 +169,7 @@
 | [0455-assign-cookies](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0905-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
 ## Math
