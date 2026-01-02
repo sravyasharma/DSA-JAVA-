@@ -13,5 +13,27 @@ class Solution {
             if(l==r) count++;
         }
         return count;
+        /*for(int i=0;i<s.length()-1;i++){
+            if(map.get('R')==map.get('L')){
+                if(s.charAt(i)!=s.charAt(i+1)){
+                    str=s.substring(i+1);
+                    count++;
+                }
+                else{
+                    int charCountR=0;
+                    int charCountL=0;
+                    if(s.charAt(i)=='R' && s.charAt(i)==s.charAt(i+1)){
+                        charCountR++;
+                    }
+                    else if(s.charAt(i)=='L'&& s.charAt(i)==s.charAt(i+1)){
+                        charCountL++;
+                    }
+                    if(charCountR==charCountL){
+                        str=s.substring(i+1);
+                        count++;
+                    }
+                }
+            }
+        }*/
     }
 }
