@@ -101,6 +101,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1189-maximum-number-of-balloons) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1446-consecutive-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1446-consecutive-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -404,6 +405,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0860-lemonade-change) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1903-largest-odd-number-in-string) |
 ## Graph
 |  |
@@ -417,6 +419,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1189-maximum-number-of-balloons) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
