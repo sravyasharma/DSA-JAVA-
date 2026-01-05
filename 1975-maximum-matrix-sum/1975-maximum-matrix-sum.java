@@ -4,7 +4,7 @@ class Solution {
         int neg=0;
         int minAbs=Integer.MAX_VALUE;
         for(int i=0;i<matrix.length;i++){
-            for(int j=0;j<matrix[i].length;j++){
+            for(int j=0;j<matrix.length;j++){
                 int val=matrix[i][j];
                 int valu=Math.abs(val);
                 tot+=valu;
