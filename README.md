@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -174,6 +175,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0217-contains-duplicate) |
