@@ -23,6 +23,7 @@
 | [0217-contains-duplicate](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -413,6 +414,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0187-repeated-dna-sequences) |
+| [0260-single-number-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Trie
