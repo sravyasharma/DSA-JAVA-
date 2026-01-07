@@ -292,6 +292,7 @@
 | [0933-increasing-order-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0933-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0993-cousins-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1005-univalued-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1731-even-odd-tree) |
 ## Depth-First Search
 |  |
@@ -319,6 +320,7 @@
 | [0933-increasing-order-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0933-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0993-cousins-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1005-univalued-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -372,6 +374,7 @@
 | [0933-increasing-order-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0933-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0993-cousins-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1005-univalued-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1731-even-odd-tree) |
 ## Binary Search Tree
 |  |
