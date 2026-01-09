@@ -14,45 +14,38 @@
  * }
  */
 class Solution {
-public TreeNode subtreeWithAllDeepest(TreeNode root) {
-if (root == null) return null;
+    public TreeNode subtreeWithAllDeepest(TreeNode root) {
+        if(root==null) return null;
+        Map<TreeNode,TreeNode> map=new HashMap<>();
+        Queue<TreeNode> q=new LinkedList<>();
+        q.add(root);
+        map.put(root,null);
+        List<TreeNode> lev=new ArrayList<>();
+        while(!q.isEmpty()){
+            int size=q.size();
+            lev.clear();
+            for(int i=0;i<size;i++){
+                TreeNode node=q.poll();
+                lev.add(node);
 
-Map<TreeNode, TreeNode> parent = new HashMap<>();
-Queue<TreeNode> q = new LinkedList<>();
-q.offer(root);
-parent.put(root, null);
-
-List<TreeNode> lastLevel = new ArrayList<>();
-
-while (!q.isEmpty()) {
-int size = q.size();
-lastLevel.clear();
-
-for (int i = 0; i < size; i++) {
-TreeNode node = q.poll();
-lastLevel.add(node);
-
-if (node.left != null) {
-parent.put(node.left, node);
-q.offer(node.left);
-}
-if (node.right != null) {
-parent.put(node.right, node);
-q.offer(node.right);
-}
-}
-}
-
-Set<TreeNode> deepest = new HashSet<>(lastLevel);
-
-while (deepest.size() > 1) {
-Set<TreeNode> next = new HashSet<>();
-for (TreeNode node : deepest) {
-next.add(parent.get(node));
-}
-deepest = next;
-}
-
-return deepest.iterator().next();
-}
+                if(node.left!=null){
+                    map.put(node.left,node);
+                    q.add(node.left);
+                }
+                if(node.right!=null){
+                    map.put(node.right,node);
+                    q.add(node.right);
+                }
+            }
+        }
+        Set<TreeNode> set=new HashSet<>(lev);
+        while(set.size()>1){
+            Set<TreeNode> newe=new HashSet<>();
+            for(TreeNode nod:set){
+                newe.add(map.get(nod));
+            }
+            set=newe;
+        }
+        return set.iterator().next();
+    }
 }
