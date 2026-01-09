@@ -19,6 +19,7 @@
 | [0152-maximum-product-subarray](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0179-largest-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0229-majority-element-ii) |
@@ -60,6 +61,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0367-valid-perfect-square) |
@@ -471,6 +473,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0209-minimum-size-subarray-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3206-alternating-groups-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3206-alternating-groups-i) |
 ## Bucket Sort
@@ -480,6 +483,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0724-find-pivot-index) |
 ## Rolling Hash
 |  |
