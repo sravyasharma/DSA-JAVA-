@@ -111,6 +111,7 @@
 | [0551-student-attendance-record-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0692-top-k-frequent-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0692-top-k-frequent-words) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0796-rotate-string) |
 | [1002-find-common-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -236,6 +237,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0435-non-overlapping-intervals) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
 | [1236-n-th-tribonacci-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1236-n-th-tribonacci-number) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1458-max-dot-product-of-two-subsequences) |
