@@ -32,6 +32,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -476,6 +477,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0643-maximum-average-subarray-i) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3206-alternating-groups-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3206-alternating-groups-i) |
 ## Bucket Sort
