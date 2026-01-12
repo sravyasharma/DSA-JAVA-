@@ -43,6 +43,7 @@
 | [1002-find-common-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1002-find-common-characters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1127-last-stone-weight) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -214,6 +215,7 @@
 | [0441-arranging-coins](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0441-arranging-coins) |
 | [1154-day-of-the-year](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1154-day-of-the-year) |
 | [1236-n-th-tribonacci-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1236-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1399-count-largest-group](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1399-count-largest-group) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -505,4 +507,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0215-kth-largest-element-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
