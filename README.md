@@ -57,6 +57,7 @@
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3206-alternating-groups-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3206-alternating-groups-i) |
+| [3453-separate-squares-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3453-separate-squares-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0441-arranging-coins](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3453-separate-squares-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3453-separate-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
