@@ -138,6 +138,7 @@
 | [1759-count-number-of-homogenous-substrings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -184,6 +185,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1399-count-largest-group) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -478,6 +480,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -496,6 +499,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3206-alternating-groups-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3206-alternating-groups-i) |
 ## Bucket Sort
