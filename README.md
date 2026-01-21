@@ -157,6 +157,7 @@
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2716-minimize-string-length) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3210-find-the-encrypted-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3340-check-balanced-string) |
@@ -197,6 +198,7 @@
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2716-minimize-string-length) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3692-majority-frequency-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3692-majority-frequency-characters) |
@@ -509,6 +511,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3206-alternating-groups-i) |
 ## Bucket Sort
 |  |
