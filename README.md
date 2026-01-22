@@ -161,6 +161,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3210-find-the-encrypted-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3210-find-the-encrypted-string) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3340-check-balanced-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3340-check-balanced-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3692-majority-frequency-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3692-majority-frequency-characters) |
@@ -517,6 +518,7 @@
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3206-alternating-groups-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Bucket Sort
 |  |
 | ------- |
