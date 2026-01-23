@@ -66,6 +66,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3453-separate-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -204,6 +205,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3692-majority-frequency-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3692-majority-frequency-characters) |
 ## Sorting
 |  |
@@ -297,6 +299,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -306,6 +309,7 @@
 | [0692-top-k-frequent-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0692-top-k-frequent-words) |
 | [1127-last-stone-weight](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1127-last-stone-weight) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Tree
 |  |
 | ------- |
@@ -556,12 +560,15 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
