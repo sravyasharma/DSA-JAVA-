@@ -52,6 +52,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1975-maximum-matrix-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1975-maximum-matrix-sum) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -104,6 +105,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1768-merge-strings-alternately) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | [0881-boats-to-save-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0905-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Math
@@ -485,6 +488,7 @@
 | [0860-lemonade-change](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0881-boats-to-save-people) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1975-maximum-matrix-sum) |
 ## Graph
