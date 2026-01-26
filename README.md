@@ -253,6 +253,7 @@
 | [0365-water-and-jug-problem](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0507-perfect-number) |
 | [1154-day-of-the-year](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1154-day-of-the-year) |
 | [1236-n-th-tribonacci-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1266-minimum-time-visiting-all-points) |
