@@ -331,6 +331,7 @@
 | [1127-last-stone-weight](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1127-last-stone-weight) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Tree
 |  |
 | ------- |
@@ -602,4 +603,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0258-add-digits) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
