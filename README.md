@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
@@ -478,6 +479,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0260-single-number-iii) |
