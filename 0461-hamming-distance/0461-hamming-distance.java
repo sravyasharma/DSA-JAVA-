@@ -1,10 +1,12 @@
 class Solution {
     public int hammingDistance(int x, int y) {
-        /*int count=0;
-        for(int i=1;i<32;i++){
-            if((x&(i>>=1))!=(y&(i>>=1))) count++;
+        //return Integer.bitCount(x^y);
+        int xor=x^y;
+        int count=0;
+        while(xor>0){
+            count+=(xor&1);
+            xor>>=1;
         }
-        return count;*/
-        return Integer.bitCount(x^y);
+        return count;
     }
 }
