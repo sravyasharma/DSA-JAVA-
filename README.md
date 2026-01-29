@@ -261,6 +261,7 @@
 | [0367-valid-perfect-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0507-perfect-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1154-day-of-the-year](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1154-day-of-the-year) |
 | [1236-n-th-tribonacci-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1266-minimum-time-visiting-all-points) |
@@ -498,6 +499,7 @@
 | [0476-number-complement](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2032-two-out-of-three) |
