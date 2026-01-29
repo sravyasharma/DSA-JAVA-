@@ -630,4 +630,5 @@
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0184-department-highest-salary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
