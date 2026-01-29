@@ -626,4 +626,8 @@
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
