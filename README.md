@@ -70,6 +70,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3206-alternating-groups-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3206-alternating-groups-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3453-separate-squares-i) |
@@ -172,6 +173,7 @@
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2716-minimize-string-length) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3210-find-the-encrypted-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3210-find-the-encrypted-string) |
@@ -296,6 +298,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1236-n-th-tribonacci-number) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1668-maximum-repeating-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1668-maximum-repeating-substring) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Enumeration
 |  |
@@ -509,6 +512,7 @@
 | ------- |
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0692-top-k-frequent-words) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -621,10 +625,12 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Database
 |  |
