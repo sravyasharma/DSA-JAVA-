@@ -57,6 +57,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1929-concatenation-of-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1975-maximum-matrix-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1975-maximum-matrix-sum) |
 | [2032-two-out-of-three](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2032-two-out-of-three) |
@@ -327,6 +328,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0258-add-digits) |
 | [0946-validate-stack-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0946-validate-stack-sequences) |
+| [1929-concatenation-of-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2293-min-max-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2293-min-max-game) |
