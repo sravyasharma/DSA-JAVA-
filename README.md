@@ -54,6 +54,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1470-shuffle-the-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
