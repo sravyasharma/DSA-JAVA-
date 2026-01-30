@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0056-merge-intervals) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0179-largest-number) |
@@ -518,6 +520,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0692-top-k-frequent-words) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
