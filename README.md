@@ -43,6 +43,7 @@
 | [0658-find-k-closest-elements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0860-lemonade-change) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
@@ -95,6 +96,7 @@
 | [0441-arranging-coins](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0658-find-k-closest-elements) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3453-separate-squares-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3453-separate-squares-i) |
 ## Two Pointers
