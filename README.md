@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0075-sort-colors) |
@@ -264,6 +265,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0258-add-digits) |
