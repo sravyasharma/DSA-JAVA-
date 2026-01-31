@@ -7,7 +7,7 @@ class Solution {
             currSum+=nums[j];
             while(currSum>=target){
                 if(j-i+1<min){
-                    min=j-i+1;
+                    min=Math.min(min,j-i+1);
                 }
                 currSum-=nums[i];
                 i++;
