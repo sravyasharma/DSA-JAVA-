@@ -176,6 +176,7 @@
 | [2299-strong-password-checker-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2325-decode-the-message) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2399-check-distances-between-same-letters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2716-minimize-string-length) |
@@ -579,6 +580,7 @@
 | [0658-find-k-closest-elements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0658-find-k-closest-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3206-alternating-groups-i) |
