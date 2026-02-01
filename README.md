@@ -25,6 +25,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0240-search-a-2d-matrix-ii) |
@@ -201,6 +202,7 @@
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -578,6 +580,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0424-longest-repeating-character-replacement) |
