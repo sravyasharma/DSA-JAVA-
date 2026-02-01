@@ -6,9 +6,7 @@ class Solution {
         for(int j=0;j<nums.length;j++){
             currSum+=nums[j];
             while(currSum>=target){
-                if(j-i+1<min){
-                    min=Math.min(min,j-i+1);
-                }
+                min=Math.min(min,j-i+1);
                 currSum-=nums[i];
                 i++;
             }
