@@ -79,6 +79,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3206-alternating-groups-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3206-alternating-groups-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3453-separate-squares-i) |
@@ -233,6 +234,7 @@
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2716-minimize-string-length) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -362,6 +364,7 @@
 | [0658-find-k-closest-elements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0692-top-k-frequent-words) |
 | [1127-last-stone-weight](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1127-last-stone-weight) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -595,6 +598,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
