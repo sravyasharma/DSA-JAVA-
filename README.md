@@ -54,6 +54,7 @@
 | [0946-validate-stack-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0946-validate-stack-sequences) |
 | [1002-find-common-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1002-find-common-characters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1089-duplicate-zeros) |
 | [1127-last-stone-weight](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1266-minimum-time-visiting-all-points) |
@@ -124,6 +125,7 @@
 | [0881-boats-to-save-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0905-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1089-duplicate-zeros) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
