@@ -410,6 +410,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0993-cousins-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1005-univalued-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1382-balance-a-binary-search-tree) |
 | [1731-even-odd-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1731-even-odd-tree) |
 ## Depth-First Search
 |  |
@@ -439,6 +440,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0993-cousins-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1005-univalued-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -495,6 +497,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0993-cousins-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1005-univalued-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1382-balance-a-binary-search-tree) |
 | [1731-even-odd-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1731-even-odd-tree) |
 ## Binary Search Tree
 |  |
@@ -509,6 +512,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0933-increasing-order-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1382-balance-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -526,6 +530,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
 |  |
@@ -565,6 +570,7 @@
 | [0860-lemonade-change](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0881-boats-to-save-people) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1975-maximum-matrix-sum) |
