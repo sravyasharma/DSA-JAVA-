@@ -85,6 +85,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3453-separate-squares-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3637-trionic-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3637-trionic-array-i) |
@@ -243,6 +244,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3692-majority-frequency-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3692-majority-frequency-characters) |
@@ -331,6 +333,7 @@
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -343,6 +346,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
