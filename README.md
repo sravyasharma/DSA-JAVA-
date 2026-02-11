@@ -92,6 +92,7 @@
 | [3637-trionic-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -251,6 +252,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3692-majority-frequency-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3692-majority-frequency-characters) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -537,6 +539,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1763-longest-nice-substring) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -636,6 +639,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0724-find-pivot-index) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -698,4 +702,5 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
