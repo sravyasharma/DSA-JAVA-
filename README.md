@@ -329,6 +329,7 @@
 | [0152-maximum-product-subarray](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0322-coin-change) |
+| [0397-integer-replacement](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0435-non-overlapping-intervals) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -352,6 +353,7 @@
 | ------- |
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0397-integer-replacement](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0397-integer-replacement) |
 | [1236-n-th-tribonacci-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
@@ -556,6 +558,7 @@
 | [0260-single-number-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0645-set-mismatch) |
@@ -580,6 +583,7 @@
 | [0011-container-with-most-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0455-assign-cookies) |
