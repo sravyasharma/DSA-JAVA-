@@ -92,6 +92,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3719-longest-balanced-subarray-i) |
@@ -293,6 +294,7 @@
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
 |  |
 | ------- |
@@ -665,6 +667,7 @@
 | [3206-alternating-groups-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3364-minimum-positive-sum-subarray) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bucket Sort
 |  |
 | ------- |
