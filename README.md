@@ -69,6 +69,7 @@
 | [1929-concatenation-of-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1975-maximum-matrix-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2032-two-out-of-three](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2032-two-out-of-three) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -287,6 +288,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -653,6 +655,7 @@
 | [0658-find-k-closest-elements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0658-find-k-closest-elements) |
 | [1763-longest-nice-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2760-longest-even-odd-subarray-with-threshold) |
