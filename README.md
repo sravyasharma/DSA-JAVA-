@@ -554,6 +554,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -568,6 +569,7 @@
 | [0136-single-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0389-find-the-difference) |
