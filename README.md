@@ -71,6 +71,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2032-two-out-of-three](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2032-two-out-of-three) |
+| [2079-watering-plants](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2079-watering-plants) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -400,6 +401,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2079-watering-plants](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2079-watering-plants) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2293-min-max-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2293-min-max-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
