@@ -121,6 +121,7 @@
 | [0011-container-with-most-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -223,6 +224,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0229-majority-element-ii) |
@@ -303,6 +305,7 @@
 | [0066-plus-one](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0258-add-digits) |
 | [0365-water-and-jug-problem](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0365-water-and-jug-problem) |
