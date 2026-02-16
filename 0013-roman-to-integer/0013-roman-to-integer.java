@@ -1,6 +1,9 @@
-class Solution {
-    public int romanToInt(String s) {
-         HashMap<Character,Integer> map = new HashMap<>();
+import java.util.HashMap;
+import java.util.Scanner;
+import java.util.*;
+public class Solution{
+    public static int romanToInt(String s){
+        HashMap<Character,Integer> map = new HashMap<>();
         map.put('I', 1);
         map.put('V', 5);
         map.put('X', 10);
@@ -21,5 +24,11 @@ class Solution {
         }
     }
     return res;
+ }
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+        String inp=sc.nextLine().toUpperCase();
+        int res=romanToInt(inp);
+        System.out.println(res);
     }
 }
