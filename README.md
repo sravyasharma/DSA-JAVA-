@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0136-single-number) |
@@ -581,6 +582,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0187-repeated-dna-sequences) |
@@ -704,6 +706,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0078-subsets) |
 ## Quickselect
 |  |
 | ------- |
