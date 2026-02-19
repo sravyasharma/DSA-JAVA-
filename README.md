@@ -136,6 +136,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0658-find-k-closest-elements) |
+| [0696-count-binary-substrings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0832-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0881-boats-to-save-people) |
@@ -174,6 +175,7 @@
 | [0551-student-attendance-record-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0692-top-k-frequent-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0796-rotate-string) |
 | [1002-find-common-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1002-find-common-characters) |
