@@ -24,6 +24,7 @@
 | [0152-maximum-product-subarray](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0217-contains-duplicate) |
@@ -357,6 +358,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0397-integer-replacement) |
