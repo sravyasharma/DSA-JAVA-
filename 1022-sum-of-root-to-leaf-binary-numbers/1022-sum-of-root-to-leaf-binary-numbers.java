@@ -15,24 +15,24 @@
  */
 class Solution {
     public int sumRootToLeaf(TreeNode root) {
-        if (root == null) return 0;
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
+        if(root==null) return 0;
+        Queue<TreeNode> q=new LinkedList<>();
+        q.add(root);
         int sum=0;
-        while(!queue.isEmpty()) {
-            TreeNode node=queue.poll();
-            if(node.left==null && node.right==null) {
-                sum+=node.val;
+        while(!q.isEmpty()){
+                TreeNode node=q.poll();
+                if(node.left==null && node.right==null) sum+=node.val;
+
+
+                if(node.left!=null){
+                    node.left.val=node.val*2+node.left.val;
+                    q.add(node.left);
+                }
+                if(node.right!=null){
+                    node.right.val=node.val*2+node.right.val;
+                    q.add(node.right);
+                }
             }
-            if(node.left!=null) {
-                node.left.val=node.val*2+node.left.val;
-                queue.add(node.left);
-            }
-            if(node.right!=null) {
-                node.right.val=node.val*2+node.right.val;
-                queue.add(node.right);
-            }
-        }
         return sum;
     }
 }
