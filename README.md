@@ -78,6 +78,7 @@
 | [2032-two-out-of-three](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2032-two-out-of-three) |
 | [2079-watering-plants](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2079-watering-plants) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2293-min-max-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2293-min-max-game) |
@@ -267,6 +268,7 @@
 | [2032-two-out-of-three](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2032-two-out-of-three) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2325-decode-the-message](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2325-decode-the-message) |
 | [2399-check-distances-between-same-letters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
@@ -311,6 +313,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -383,6 +386,7 @@
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -399,6 +403,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
