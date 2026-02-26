@@ -54,6 +54,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0832-flipping-an-image) |
+| [0845-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0845-longest-mountain-in-array) |
 | [0860-lemonade-change](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0860-lemonade-change) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0881-boats-to-save-people) |
@@ -145,6 +146,7 @@
 | [0658-find-k-closest-elements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0832-flipping-an-image) |
+| [0845-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0845-longest-mountain-in-array) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0905-sort-array-by-parity) |
@@ -380,6 +382,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0799-champagne-tower) |
+| [0845-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0845-longest-mountain-in-array) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
 | [1236-n-th-tribonacci-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1236-n-th-tribonacci-number) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -390,6 +393,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0845-longest-mountain-in-array) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
