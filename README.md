@@ -139,6 +139,7 @@
 | [0344-reverse-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -177,6 +178,7 @@
 | [0383-ransom-note](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0409-longest-palindrome) |
@@ -376,6 +378,7 @@
 | [0198-house-robber](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0435-non-overlapping-intervals) |
