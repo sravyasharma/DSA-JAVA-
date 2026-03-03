@@ -64,6 +64,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1089-duplicate-zeros) |
 | [1127-last-stone-weight](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1127-last-stone-weight) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -196,6 +197,7 @@
 | [1002-find-common-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1154-day-of-the-year) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
@@ -269,6 +271,7 @@
 | [0692-top-k-frequent-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0692-top-k-frequent-words) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1002-find-common-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1002-find-common-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1399-count-largest-group) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -691,6 +694,7 @@
 | [0383-ransom-note](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0692-top-k-frequent-words) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
