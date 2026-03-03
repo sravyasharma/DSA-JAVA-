@@ -204,6 +204,7 @@
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1544-make-the-string-great](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1544-make-the-string-great) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1668-maximum-repeating-substring) |
@@ -418,6 +419,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0241-different-ways-to-add-parentheses) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -436,6 +438,7 @@
 | [0832-flipping-an-image](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0832-flipping-an-image) |
 | [0946-validate-stack-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0946-validate-stack-sequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1951-find-the-winner-of-the-circular-game) |
