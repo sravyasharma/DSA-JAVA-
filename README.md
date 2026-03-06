@@ -217,6 +217,7 @@
 | [1759-count-number-of-homogenous-substrings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1763-longest-nice-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1768-merge-strings-alternately) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1903-largest-odd-number-in-string) |
