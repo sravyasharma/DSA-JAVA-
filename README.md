@@ -104,6 +104,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3379-transformed-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3453-separate-squares-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3453-separate-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -371,6 +372,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Matrix
 |  |
 | ------- |
@@ -418,6 +420,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3713-longest-balanced-substring-i) |
 ## Memoization
@@ -744,6 +747,7 @@
 | [3206-alternating-groups-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bucket Sort
 |  |
@@ -808,6 +812,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Graph Theory
 |  |
 | ------- |
