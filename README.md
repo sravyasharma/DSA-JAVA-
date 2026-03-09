@@ -414,6 +414,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1668-maximum-repeating-substring) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Enumeration
 |  |
@@ -763,6 +764,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0724-find-pivot-index) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3719-longest-balanced-subarray-i) |
