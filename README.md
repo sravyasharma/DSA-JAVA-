@@ -76,6 +76,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1748-sum-of-unique-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -288,6 +289,7 @@
 | [1399-count-largest-group](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1399-count-largest-group) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1748-sum-of-unique-elements) |
 | [1763-longest-nice-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -719,6 +721,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
