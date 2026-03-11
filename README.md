@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0056-merge-intervals) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0202-happy-number) |
