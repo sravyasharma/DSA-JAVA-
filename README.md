@@ -37,6 +37,7 @@
 | [0260-single-number-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0322-coin-change) |
+| [0332-reconstruct-itinerary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0332-reconstruct-itinerary) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0413-arithmetic-slices) |
@@ -185,6 +186,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0290-word-pattern) |
+| [0332-reconstruct-itinerary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0383-ransom-note) |
@@ -328,6 +330,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0229-majority-element-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0332-reconstruct-itinerary) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0389-find-the-difference) |
@@ -479,6 +482,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0239-sliding-window-maximum) |
+| [0332-reconstruct-itinerary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0332-reconstruct-itinerary) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0692-top-k-frequent-words) |
@@ -537,6 +541,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0332-reconstruct-itinerary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0332-reconstruct-itinerary) |
 | [0365-water-and-jug-problem](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0365-water-and-jug-problem) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -831,6 +836,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0332-reconstruct-itinerary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -857,4 +863,8 @@
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2396-strictly-palindromic-number) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3674-minimum-operations-to-equalize-array) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
