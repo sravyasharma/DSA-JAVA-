@@ -372,6 +372,7 @@
 | [0507-perfect-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1154-day-of-the-year](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1154-day-of-the-year) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1227-airplane-seat-assignment-probability) |
 | [1236-n-th-tribonacci-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -418,6 +419,7 @@
 | [0799-champagne-tower](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0799-champagne-tower) |
 | [0845-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0845-longest-mountain-in-array) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1227-airplane-seat-assignment-probability) |
 | [1236-n-th-tribonacci-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1236-n-th-tribonacci-number) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -861,10 +863,15 @@
 ## Brainteaser
 |  |
 | ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2396-strictly-palindromic-number) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Eulerian Circuit
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0332-reconstruct-itinerary) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
