@@ -217,6 +217,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1446-consecutive-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1446-consecutive-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -809,6 +810,7 @@
 | [0046-permutations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0079-word-search) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1980-find-unique-binary-string) |
 ## Quickselect
 |  |
