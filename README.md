@@ -62,6 +62,7 @@
 | [0881-boats-to-save-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0946-validate-stack-sequences) |
+| [0994-rotting-oranges](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1002-find-common-characters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1089-duplicate-zeros) |
@@ -400,6 +401,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0832-flipping-an-image](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0832-flipping-an-image) |
+| [0994-rotting-oranges](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1975-maximum-matrix-sum) |
@@ -590,6 +592,7 @@
 | [0841-keys-and-rooms](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1005-univalued-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1731-even-odd-tree) |
 ## Binary Tree
